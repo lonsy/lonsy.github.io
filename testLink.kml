@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-<Folder>
- <name>Network Links</name>
- <visibility>1</visibility>
- <open>1</open>
- <description>Network link example 1</description>
-  <Document>
-    <visibility>1</visibility>
-    <NetworkLink>
-      <name>NE US Radar</name>
-      <refreshVisibility>1</refreshVisibility>
-      <flyToView>1</flyToView>
-      <Link><href>https://lonsy.github.io/test.kmz</href></Link>
-    </NetworkLink>
-  </Document>
-</Folder>
-</kml>
+<?xml version="1.0" ?><kml><Document><Style id="grid_color_style_b266e88e_normal"><LineStyle><color>ff000000</color><width>2.0</width></LineStyle><PolyStyle><color>b266e88e</color><outline>0</outline></PolyStyle></Style><Style id="grid_color_style_b266e88e_highlight"><LineStyle><color>ff000000</color><width>2.0</width></LineStyle><PolyStyle><color>b266e88e</color><outline>1</outline></PolyStyle></Style><Style id="grid_color_style_b2ffcc00_normal"><LineStyle><color>ff000000</color><width>2.0</width></LineStyle><PolyStyle><color>b2ffcc00</color><outline>0</outline></PolyStyle></Style><Style id="grid_color_style_b2ffcc00_highlight"><LineStyle><color>ff000000</color><width>2.0</width></LineStyle><PolyStyle><color>b2ffcc00</color><outline>1</outline></PolyStyle></Style><StyleMap id="grid_color_style_b266e88e"><Pair><key>normal</key><styleUrl>grid_color_style_b266e88e_normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>grid_color_style_b266e88e_highlight</styleUrl></Pair></StyleMap><StyleMap id="grid_color_style_b2ffcc00"><Pair><key>normal</key><styleUrl>grid_color_style_b2ffcc00_normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>grid_color_style_b2ffcc00_highlight</styleUrl></Pair></StyleMap><Folder><name>Grids</name><open>0</open><Placemark><name>1</name><description><![CDATA[<table border="1" padding="0"><tr><td>No.</td><td>1</td></tr><tr><td>eNodeB ID</td><td>22381</td></tr><tr><td>eNodeB Name</td><td>GC_Grayston</td></tr><tr><td>Cell ID</td><td>10</td></tr><tr><td>Cell Name</td><td>F22381_GC_Grayston_A1</td></tr><tr><td>TAC</td><td>20101</td></tr><tr><td>Latitude</td><td>-26.083378</td></tr><tr><td>Longitude</td><td>28.064500</td></tr><tr><td>CPE Type</td><td>Supporting indoor&outdoor CPE</td></tr><tr><td>Band</td><td>40</td></tr></table><data key="CPE Type" value="2"></data><data key="Data Source" value="1"></data>]]></description><styleUrl>#grid_color_style_b2ffcc00</styleUrl><Polygon><tessellate>1</tessellate><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>28.06425,-26.083153,10.0
+28.06475,-26.083153,10.0
+28.06475,-26.083603,10.0
+28.06425,-26.083603,10.0
+28.06425,-26.083153,10.0
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Folder></Document></kml>
