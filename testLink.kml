@@ -2,8 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Folder>
  <name>Network Links</name>
- <visibility>0</visibility>
- <open>0</open>
+ <visibility>1</visibility>
+ <open>1</open>
  <description>Network link example 1</description>
   <Document>
     <visibility>1</visibility>
