@@ -6,7 +6,7 @@
     <name>NE US Radar</name>
     <refreshVisibility>1</refreshVisibility>
     <flyToView>1</flyToView>
-    <Link>http://localhost:8080/target.kml</Link>
+    <Link>https://lonsy.github.io/test.kmz</Link>
   </NetworkLink>
 </Document>
 </kml>
