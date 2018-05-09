@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Folder>
+        <name>WTTx Grid Overlays</name>
+        <description>WTTx Grid Overlays</description>
+        <GroundOverlay>
+            <name>WttxGridMap</name>
+            <color>63ffffff</color>
+            <Icon>
+                <href>wttx_grid_map_1525846760431.png</href>
+            </Icon>
+            <LatLonBox>
+                <north>7.009367830260321</north>
+                <south>6.722350169739679</south>
+                <east>80.24962149884</east>
+                <west>79.80756551139496</west>
+            </LatLonBox>
+        </GroundOverlay>
+    </Folder>
+</kml>
